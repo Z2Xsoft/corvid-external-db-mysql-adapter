@@ -1,0 +1,2 @@
+- name: CLI for Microsoft 365 Login
+  uses: pnp/action-cli-login@v2.0.0
